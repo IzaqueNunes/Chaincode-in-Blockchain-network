@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "universityExists",
+        "transactionLabel": "A test universityExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createUniversity",
+        "transactionLabel": "A test createUniversity transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readUniversity",
+        "transactionLabel": "A test readUniversity transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateUniversity",
+        "transactionLabel": "A test updateUniversity transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteUniversity",
+        "transactionLabel": "A test deleteUniversity transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
